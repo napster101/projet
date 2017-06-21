@@ -15,7 +15,7 @@
 
     "removeComments": false,
 
-    "noImplicitAny": false
+    "ImplicitAny": false
 
   }
 }
